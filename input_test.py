@@ -1,2 +1,3 @@
+#!/usr/bin/python
 ip = raw_input("enter your name")
-print ip
+print "your name is", ip
