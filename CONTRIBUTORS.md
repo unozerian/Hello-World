@@ -64,6 +64,7 @@
 - [Navdeep Hada](https://github.com/hadanavdeep)
 - [Naveenraj M](https://github.com/naveenrajm7)
 - [nilesh](https://github.com/nileshsahitya9)
+- [Kyzoc](https://github.com/unozerian)
 - [Nishant Tilve](https://github.com/Antimatter98)
 - [Nisheanthan Karthikeyan](https://github.com/Nisheanthan) 
 - [nymika](https://github.com/nymika)
